@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hi, I’m Mariya - a full-stack developer who speaks both frontend sass and backend logic. I recently graduated from Dev Academy Aotearoa (Level 6), where I dove headfirst into React, databases, and lots of late-night debugging snacks 🍫.
+
+My tech journey started with an Electronics and Communications Engineering degree, and since then, I’ve worn many hats — from building a food ordering system using Spring Boot, Angular, and MySQL, to modernizing COBOL systems in Japan (yes, that dinosaur still roars 🦖). Now in Aotearoa, I’m back in tech with a toddler on one hip and a fire for creative problem-solving in the other hand.
+
+I love collaborating with tech people, brainstorming weird ideas into real things, and turning bugs into features (well… mostly). I'm passionate about building smart, simple digital solutions that make life just a bit easier.
+
+Let’s build cool stuff together - preferably with good coffee and better commit messages ☕✨.
+
 <!--
 **mariyatom/MariyaTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
