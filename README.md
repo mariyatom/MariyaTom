@@ -10,6 +10,20 @@ I love **collaborating** with tech people, brainstorming weird ideas into real t
 
 Let’s build cool stuff together - preferably with good coffee and better commit messages ☕✨.
 
+🛠 Tech Stack 
+React & TypeScript — Crafting clean, scalable user interfaces with a strong focus on performance and maintainability.
+
+Next.js — Building full-stack applications with server-side rendering, dynamic routing, and lightning-fast user experiences.
+
+Node.js & Express — Powering robust, efficient backends with clean API design and fast server-side logic.
+
+.NET & C# — Developing enterprise-grade systems with solid architecture and scalable, reliable APIs.
+
+Tailwind CSS — Accelerating front-end development with a utility-first approach to styling, keeping designs consistent and flexible.
+
+[LinkedIn](https://www.linkedin.com/in/tommariya/) | [Portfolio](https://mariyatom-portfolio1.vercel.app/) 
+
+
 <!--
 **mariyatom/MariyaTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
