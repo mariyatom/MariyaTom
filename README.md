@@ -4,7 +4,7 @@ Hi, I’m Mariya - a **full-stack developer** who speaks both frontend sass and 
 
 My tech journey started with an Electronics and Communications Engineering degree (Level 7 NZQA). Since then, I’ve worn many hats  from building a **food ordering system** for St. Pierre’s Sushi in New Zealand (as part of a remote team in India), using Spring Boot, Angular, and MySQL, to modernizing COBOL systems in **Japan** (yes, that dinosaur still roars 🦖).
 
-Now in **Aotearoa**, I’m back in tech with a **toddler** on one hip and a **fire** for creative problem-solving in the other hand.
+Now in **Aotearoa**, I’m back in tech with a toddler on one hip and a **fire** for creative problem-solving in the other hand.
 
 I love **collaborating** with tech people, brainstorming weird ideas into real things, and turning bugs into features (well… mostly). I'm passionate about building smart, simple digital solutions that make life just a bit easier.
 
