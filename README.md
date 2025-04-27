@@ -11,6 +11,7 @@ I love **collaborating** with tech people, brainstorming weird ideas into real t
 Let’s build cool stuff together - preferably with good coffee and better commit messages ☕✨.
 
 🛠 Tech Stack 
+________________
 React & TypeScript — Crafting clean, scalable user interfaces with a strong focus on performance and maintainability.
 
 Next.js — Building full-stack applications with server-side rendering, dynamic routing, and lightning-fast user experiences.
