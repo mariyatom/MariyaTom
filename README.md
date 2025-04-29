@@ -22,7 +22,7 @@ ________________
 
 **Tailwind CSS** — Accelerating front-end development with a utility-first approach to styling, keeping designs consistent and flexible.
 
-[LinkedIn](https://www.linkedin.com/in/tommariya/) | [Portfolio](https://mariyatom-portfolio1.vercel.app/) 
+[LinkedIn](https://www.linkedin.com/in/tommariya/) | [Portfolio](https://mariyatom-portfolio.vercel.app/) 
 
 
 <!--
