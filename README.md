@@ -13,7 +13,7 @@ Let’s build cool stuff together.
 ---------------------------------------------------------------------------------------------------------------------------
 ### 🔭 I’m currently working on
 
-I'm currently building my first C# application, and I’m genuinely excited to explore new technologies!
+I'm currently building my C# application, and I’m genuinely excited to explore new technologies!
 
 -------------------------------------------------------------------------------------------------------------------------
 
