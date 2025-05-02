@@ -11,7 +11,8 @@ I love **collaborating** with tech people, brainstorming weird ideas into real t
 Let’s build cool stuff together.
 
 ---------------------------------------------------------------------------------------------------------------------------
-🔭 I’m currently working on
+### 🔭 I’m currently working on
+
 I'm currently building my first C# application, and I’m genuinely excited to explore new technologies!
 
 -------------------------------------------------------------------------------------------------------------------------
