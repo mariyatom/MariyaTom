@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I’m Mariya - a **full-stack developer** who speaks both frontend Sass and backend logic. I recently graduated from Dev Academy Aotearoa (Level 6), where I dove headfirst into React, databases, and many late-night debugging snacks 🍫.
+Hi, I’m Mariya - a **full-stack developer** who speaks both frontend Sass and backend logic. I recently graduated from Dev Academy Aotearoa (Level 6), where I dove headfirst into React, databases, and many late-night debugging snacks.
 
 My tech journey started with an Electronics and Communications Engineering degree (Level 7 NZQA). Since then, I’ve worn many hats  from building a **food ordering system** for St. Pierre’s Sushi in New Zealand (as part of a remote team in India), using Spring Boot, Angular, and MySQL, to modernizing COBOL systems in **Japan** (yes, that dinosaur still roars 🦖).
 
