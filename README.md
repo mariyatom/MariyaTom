@@ -31,6 +31,31 @@ ________________
 
 [LinkedIn](https://www.linkedin.com/in/tommariya/) | [Portfolio](https://mariyatom-portfolio.vercel.app/) 
 
+Key tech skills
+REST APIs
+Test-Driven Development
+Relational Databases
+Node.js
+.NET Core
+Knex
+JavaScript
+HTML5
+Cascading Style Sheets (CSS)
+Tailwind CSS
+Express.js
+Superagent
+Vitest
+GitHub
+Database Queries
+React
+TypeScript
+C#
+Microsoft Entity Framework Core
+Angular
+ReactQuery
+Sqlite3
+Multer
+Auth0
 
 <!--
 **mariyatom/MariyaTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
