@@ -8,7 +8,13 @@ Now in Aotearoa, I’m back in tech with a  fire for creative problem-solving an
 
 I love **collaborating** with tech people, brainstorming weird ideas into real things, and turning bugs into features (well… mostly). I'm passionate about building smart, simple digital solutions that make life just a bit easier.
 
-Let’s build cool stuff together - preferably with good coffee and better commit messages ☕✨.
+Let’s build cool stuff together.
+
+---------------------------------------------------------------------------------------------------------------------------
+🔭 I’m currently working on
+I'm currently building my first C# application, and I’m genuinely excited to explore new technologies!
+
+-------------------------------------------------------------------------------------------------------------------------
 
 🛠 Tech Stack 
 ________________
