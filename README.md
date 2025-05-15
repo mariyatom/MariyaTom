@@ -36,7 +36,10 @@ ________________
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-[LinkedIn](https://www.linkedin.com/in/tommariya/) | [Portfolio](https://mariyatom-portfolio.vercel.app/) 
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommariya/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mariyatom07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=firefox&logoColor=white)](https://mariyatom-portfolio.vercel.app/)
 
 
 
