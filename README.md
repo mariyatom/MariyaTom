@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+Full-stack developer fluent in frontend Sass and backend logic
+
+Graduate of Dev Academy Aotearoa (Level 6 NZQA) – focused on React, databases, and debugging
+
+Background in Electronics & Communications Engineering (Level 7 NZQA)
+
+Built a food ordering system for St. Pierre’s Sushi (Spring Boot, Angular, MySQL)
+
+Modernised COBOL systems in Japan
+
+Based in Aotearoa – passionate about creative problem-solving and clean digital solutions
+
+Love collaborating, building smart tools, and turning bugs into features
+
+Let’s build cool stuff together!
+<!--
+
 Hi, I’m Mariya - a **full-stack developer** who speaks both frontend Sass and backend logic. I recently graduated from Dev Academy Aotearoa (Level 6 NZQA), where I dove headfirst into React, databases, and many late-night debugging snacks.
 
 My tech journey started with an Electronics and Communications Engineering degree (Level 7 NZQA). Since then, I’ve worn many hats  from building a **food ordering system** for St. Pierre’s Sushi in New Zealand (as part of a remote team in India), using Spring Boot, Angular, and MySQL, to modernizing COBOL systems in **Japan** (yes, that dinosaur still roars 🦖).
@@ -9,6 +26,7 @@ Now in Aotearoa, I’m back in tech with a  fire for creative problem-solving an
 I love **collaborating** with tech people, brainstorming weird ideas into real things, and turning bugs into features (well… mostly). I'm passionate about building smart, simple digital solutions that make life just a bit easier.
 
 Let’s build cool stuff together.
+-->
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### 🔭 I’m currently working on
