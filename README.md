@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 * Full-stack developer fluent in frontend Sass and backend logic
-* Graduate of Dev Academy Aotearoa (Level 6 NZQA) – focused on React, Express.JS, MySQL, Unit and Integration Testing
+* Dev Academy Aotearoa (Level 6 NZQA) – focused on React, Express.js, MySQL, Unit and Integration Testing
 * Background in Electronics & Communications Engineering (Level 7 NZQA)
 * Built a food ordering system for St. Pierre’s Sushi (Spring Boot, Angular, MySQL)
 * Modernised COBOL systems in Japan
